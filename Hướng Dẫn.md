@@ -21,7 +21,7 @@ Trong chuỗi bài này bạn sẽ được học:
 
 # 2. Tạo project web API
 Sử dụng .NET core CLI là cách đơn giản nhất để tạo ASP.NET Core web API. CLI đã được tích hợp sẵn vào trong Azure Cloud Shell, nên rất thuận tiện trong việc phát triện trên Azure.
-## Tạo mới Project
+# # Tạo mới Project
 ### Khung sườn và mổ xẻ thành phần
 1. Chạy dòng .NET Core CLI command trên CMD
 ```
@@ -45,6 +45,14 @@ Project `ContosoPets.Api` sẽ được mở trực tiếp ở editor.
 4. Phân tích cấu trúc file
 |  |  |
 |--|--|
-|  |  |
+|  |  | web API
+ 
+ 
+
+ 
+
 
 > Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMTgwNzc4OTFdfQ==
+-->
