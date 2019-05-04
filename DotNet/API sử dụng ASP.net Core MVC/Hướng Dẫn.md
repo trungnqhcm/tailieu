@@ -28,7 +28,7 @@ Sử dụng .NET core CLI là cách đơn giản nhất để tạo ASP.NET Core
 dotnet new webapi -o contoso-pets/src/ContosoPets.Api
 ```
 Như vậy Prject API mới đã được khởi tạo.
-Dòng lệnh trên khởi tạo dựa trên khung mẫu sẵn của ASP.NET Core. `_webapi_` dựng sẵn viết bằng  *C#*. `_contoso-pets/src/ContosoPets.Api_` là đường dẫn khởi tạo. Tên của Project này là `_ContosoPets.Api_` được thể hiện trong đường dẫn.
+Dòng lệnh trên khởi tạo dựa trên khung mẫu sẵn của ASP.NET Core. `webapi` dựng sẵn viết bằng  *C#*. `contoso-pets/src/ContosoPets.Api` là đường dẫn khởi tạo. Tên của Project này là `ContosoPets.Api` được thể hiện trong đường dẫn.
 
 2. Chạy dòng lệnh
 ```
@@ -50,6 +50,6 @@ Phone | $12
 Pipe | $1
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgzODIwMjgsLTE0OTMyMzkwMzAsLT
-Y4MTI5ODI0MSwtMTkwMjU2MDMzMywyNjM5OTI4NjJdfQ==
+eyJoaXN0b3J5IjpbMTI0NDI1NTAzOCwtMTQ5MzIzOTAzMCwtNj
+gxMjk4MjQxLC0xOTAyNTYwMzMzLDI2Mzk5Mjg2Ml19
 -->
