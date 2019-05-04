@@ -48,11 +48,9 @@ Dòng lệnh trên khởi tạo dựa trên khung mẫu sẵn của <a href="htt
 <p>Project <code>ContosoPets.Api</code> sẽ được mở trực tiếp ở editor.</p>
 <ol start="4">
 <li>Phân tích cấu trúc file<br>
-Name | Decription<br>
--------- | -----<br>
-<em><em>Controllers/</em></em> | $1600<br>
-Phone | $12<br>
-Pipe | $1</li>
+|Name|Deciption  |<br>
+|–|--|<br>
+|  |  |</li>
 </ol>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
