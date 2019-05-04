@@ -40,12 +40,16 @@ cd ./contoso-pets/src/ContosoPets.Api
 ```
 code .
 ```
-Project `_ContosoPets.Api_` sẽ được mở trực tiếp ở editor.
+Project `ContosoPets.Api` sẽ được mở trực tiếp ở editor.
 
 4. Phân tích cấu trúc file
-
+Name | Decription
+-------- | -----
+*_Controllers/_* | $1600
+Phone | $12
+Pipe | $1
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMyMzkwMzAsLTY4MTI5ODI0MSwtMT
-kwMjU2MDMzMywyNjM5OTI4NjJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTgzODIwMjgsLTE0OTMyMzkwMzAsLT
+Y4MTI5ODI0MSwtMTkwMjU2MDMzMywyNjM5OTI4NjJdfQ==
 -->
