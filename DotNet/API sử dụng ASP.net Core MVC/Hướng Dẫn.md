@@ -24,8 +24,11 @@ Sử dụng .NET core CLI là cách đơn giản nhất để tạo ASP.NET Core
 ## Tạo mới Project
 ### Khung sườn và mổ xẻ thành phần
 1. Chạy dòng .NET Core CLI command trên CMD
-2. `enter code here`
-
+```
+dotnet new webapi -o contoso-pets/src/ContosoPets.Api
+```
+The preceding command uses an ASP.NET Core project template, aliased as _webapi_, to scaffold a C#-based starter web API project. The _contoso-pets/src/ContosoPets.Api_ directory structure is created, which contains an ASP.NET Core project targeting .NET Core. The project name matches the _ContosoPets.Api_directory name.
+Dòng lệnh trên khởi tạo một khung mẫu sẵn của ASP.NET Core. `_webapi_`
  
  
  
@@ -35,5 +38,5 @@ Sử dụng .NET core CLI là cách đơn giản nhất để tạo ASP.NET Core
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMjYxOTM0LDI2Mzk5Mjg2Ml19
+eyJoaXN0b3J5IjpbLTcxNzgwMDk2NywyNjM5OTI4NjJdfQ==
 -->
