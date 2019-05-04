@@ -43,13 +43,16 @@ code .
 Project `_ContosoPets.Api_` sẽ được mở trực tiếp ở editor.
 
 4. Phân tích cấu trúc file
- 
-
+Item 		| Value
+-------- 	| -----
+Computer | $1600
+Phone | $12
+Pipe | $1
  
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTI5ODI0MSwtMTkwMjU2MDMzMywyNj
-M5OTI4NjJdfQ==
+eyJoaXN0b3J5IjpbLTY2MDI3OTUyMiwtNjgxMjk4MjQxLC0xOT
+AyNTYwMzMzLDI2Mzk5Mjg2Ml19
 -->
