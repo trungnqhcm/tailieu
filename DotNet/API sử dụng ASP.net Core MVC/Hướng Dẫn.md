@@ -29,13 +29,18 @@ dotnet new webapi -o contoso-pets/src/ContosoPets.Api
 ```
 Như vậy Prject API mới đã được khởi tạo.
 Dòng lệnh trên khởi tạo dựa trên khung mẫu sẵn của ASP.NET Core. `_webapi_` dựng sẵn viết bằng  *C#*. `_contoso-pets/src/ContosoPets.Api_` là đường dẫn khởi tạo. Tên của Project này là `_ContosoPets.Api_` được thể hiện trong đường dẫn.
-	2. Chạy dòng lệnh
+
+2. Chạy dòng lệnh
 ```
 cd ./contoso-pets/src/ContosoPets.Api
 ``` 
 `cd` vào thư mục chưa project
  
  3. Chạy dòng lệnh
+```
+code .
+```
+Project `_ContosoPets.Api_` sẽ được mở trực tiếp ở edit
  
 
  
@@ -43,6 +48,6 @@ cd ./contoso-pets/src/ContosoPets.Api
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQzNzkxOTEsLTE5MDI1NjAzMzMsMj
-YzOTkyODYyXX0=
+eyJoaXN0b3J5IjpbNzQzMTYxNDQ4LC0xOTAyNTYwMzMzLDI2Mz
+k5Mjg2Ml19
 -->
