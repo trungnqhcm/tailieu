@@ -1,0 +1,33 @@
+---
+
+
+---
+
+<h1 id="giới-thiệu">1. Giới thiệu</h1>
+<blockquote>
+<p>Bài hướng dẫn này sẽ chỉ bạn các bước cơ bản để tạo một Web API sử dụng <a href="http://ASP.net">ASP.net</a> Core của Microsoft.</p>
+</blockquote>
+<p>Tưởng tượng bạn đang làm việc cho một công ty bán bán đồ cho Thú cưng. Quản lý yêu cầu bạn phát triển một RESTful dịch vụ quản lý hàng cho cửa hàng Online của công ty. Dịch vụ API yêu cầu cần có hỗ trợ <code>Thêm</code> <code>Xoá</code> <code>Sửa</code> <code>Xem chi tiết</code>  các sản phẩm ( Là hoạt động cơ bản của HTTP có thể gọi là <code>Read</code> <code>Update</code> <code>Delete</code> - <strong>CRUD</strong> )</p>
+<p>Bài này sẽ hướng dẫn tạo nên một <code>cross-platform</code> RESTful với <code>ASP.NET Core web API</code> viết bằng <code>.NET core</code> và <code>C#</code>. Chúng ta cũng sẽ được học cách làm việc Database. <code>Entity Framework</code> (EF) sẽ được sử dụng như <strong>O</strong>bject-<strong>R</strong>elational <strong>M</strong>apper (O/RM) (Chuyển đổi CSDL giưã các hệ thống).</p>
+<p>Chuỗi bài này sẽ <a href="https://docs.microsoft.com/dotnet/core/tools/">.NET Core CLI</a> để hướng dẫn phát triển một Web API. Sau khi hoàn thành chuỗi đề Hướng dẫn này, bạn có thể áp dụng để phát triển ở các môi trường khác như <code>Visual Studio</code> (Window), <code>Visual Studio for Mac</code>(MacOS) hoặc <code>Visual Studio Code</code> (Windows, Linux, &amp; macOS).</p>
+<h2 id="mục-tiêu">Mục tiêu</h2>
+<p>Trong chuỗi bài này bạn sẽ được học:</p>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Sử dụng .NET Core CLI để tạo một project <a href="http://ASP.NET">ASP.NET</a> Core web API.</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Tạo Database sản phẩm</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Thêm CRUD vào web API</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Test Web API</li>
+</ul>
+<h2 id="điều-kiện-tiên-quyết">Điều kiện tiên quyết</h2>
+<ul>
+<li>Nắm được cơ bản về C#</li>
+<li>Nắm kiến thức về RESTful và HTTP</li>
+</ul>
+<h1 id="tạo-project-web-api">2. Tạo project web API</h1>
+<p>Sử dụng .NET core CLI là cách đơn giản nhất để tạo <a href="http://ASP.NET">ASP.NET</a> Core web API. CLI đã được tích hợp sẵn vào trong Azure Cloud Shell, nên rất thuận tiện trong việc phát triện trên Azure.</p>
+<h1 id="tạo-mới-project-web-api">Tạo mới Project web API</h1>
+<p></p>
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
+
