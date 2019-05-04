@@ -40,7 +40,9 @@ cd ./contoso-pets/src/ContosoPets.Api
 ```
 code .
 ```
-Project `_ContosoPets.Api_` sẽ được mở trực tiếp ở edit
+Project `_ContosoPets.Api_` sẽ được mở trực tiếp ở editor.
+
+4. Phân tích cấu trúc file
  
 
  
@@ -48,6 +50,6 @@ Project `_ContosoPets.Api_` sẽ được mở trực tiếp ở edit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMTYxNDQ4LC0xOTAyNTYwMzMzLDI2Mz
-k5Mjg2Ml19
+eyJoaXN0b3J5IjpbLTY4MTI5ODI0MSwtMTkwMjU2MDMzMywyNj
+M5OTI4NjJdfQ==
 -->
