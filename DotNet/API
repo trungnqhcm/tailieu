@@ -25,8 +25,35 @@
 </ul>
 <h1 id="tạo-project-web-api">2. Tạo project web API</h1>
 <p>Sử dụng .NET core CLI là cách đơn giản nhất để tạo <a href="http://ASP.NET">ASP.NET</a> Core web API. CLI đã được tích hợp sẵn vào trong Azure Cloud Shell, nên rất thuận tiện trong việc phát triện trên Azure.</p>
-<h1 id="tạo-mới-project-web-api">Tạo mới Project web API</h1>
-<p></p>
+<h2 id="tạo-mới-project">Tạo mới Project</h2>
+<h3 id="khung-sườn-và-mổ-xẻ-thành-phần">Khung sườn và mổ xẻ thành phần</h3>
+<ol>
+<li>Chạy dòng .NET Core CLI command trên CMD</li>
+</ol>
+<pre><code>dotnet new webapi -o contoso-pets/src/ContosoPets.Api
+</code></pre>
+<p>Như vậy Prject API mới đã được khởi tạo.<br>
+Dòng lệnh trên khởi tạo dựa trên khung mẫu sẵn của <a href="http://ASP.NET">ASP.NET</a> Core. <code>webapi</code> dựng sẵn viết bằng  <em>C#</em>. <code>contoso-pets/src/ContosoPets.Api</code> là đường dẫn khởi tạo. Tên của Project này là <code>ContosoPets.Api</code> được thể hiện trong đường dẫn.</p>
+<ol start="2">
+<li>Chạy dòng lệnh</li>
+</ol>
+<pre><code>cd ./contoso-pets/src/ContosoPets.Api
+</code></pre>
+<p><code>cd</code> vào thư mục chưa project</p>
+<ol start="3">
+<li>Chạy dòng lệnh</li>
+</ol>
+<pre><code>code .
+</code></pre>
+<p>Project <code>ContosoPets.Api</code> sẽ được mở trực tiếp ở editor.</p>
+<ol start="4">
+<li>Phân tích cấu trúc file<br>
+Name | Decription<br>
+-------- | -----<br>
+<em><em>Controllers/</em></em> | $1600<br>
+Phone | $12<br>
+Pipe | $1</li>
+</ol>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
